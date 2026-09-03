@@ -11,6 +11,12 @@ Special Education Department Coordinator
 
 Based on the Fall and Spring semester performance trends and results, what areas of English assignments should be prioritized for academic support?
 
+## Objectives
+
+- Compare Fall and Spring performance
+- Examine missing and late assignments
+- Analyze performance by category
+
 ## Tools
 
 - Excel
@@ -20,16 +26,24 @@ Based on the Fall and Spring semester performance trends and results, what areas
 - Tableau
 
 ## Data
+
 - Assignment
 - Category
 - Possible Points
 - Score
 - Submission Status
 
-## Key Findings
+## Grading Structure
+| Subject: English |
+| Category | Weight |
+| Classwork | 50% |
+| Test/Quizzes | 30% |
+| Projects | 20% |
+
+## Analysis
 
 ## Dashboard
 
-## Methodology
+## Key Findings
 
 ## Recommendations
