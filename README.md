@@ -20,4 +20,16 @@ Based on the Fall and Spring semester performance trends and results, what areas
 - Tableau
 
 ## Data
-- Assignment 
+- Assignment
+- Category
+- Possible Points
+- Score
+- Submission Status
+
+## Key Findings
+
+## Dashboard
+
+## Methodology
+
+## Recommendations
