@@ -1,7 +1,7 @@
 # English Academic Performance Analytics
 
 ## Project Overview
-This project analyzes the Fall and Spring Semester grades from IEP students' to identify performance trends, areas of classwork/test/project performance for academic support.
+This project analyzes the Fall and Spring Semester grades from IEP Junior High School students' to identify performance trends, areas of classwork/test/project performance for academic support.
 
 ## Stakeholder
 
@@ -34,12 +34,19 @@ Based on the Fall and Spring semester performance trends and results, what areas
 - Submission Status
 
 ## Grading Structure
-| Subject: English |
-| --- | ---: |
-| Category | Weight |
+**Subject: English Ⅲ**
+| **Category** | **Weight** |
+| :--- | ---: |
 | Classwork | 50% |
 | Test/Quizzes | 30% |
 | Projects | 20% |
+
+## Dataset Preview
+
+Data set contains anonymized English grades including the semester, assignment, category, score, possible points, and submission status.
+
+Example preview:
+
 
 ## Analysis
 
