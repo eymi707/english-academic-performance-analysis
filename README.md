@@ -35,6 +35,7 @@ Based on the Fall and Spring semester performance trends and results, what areas
 
 ## Grading Structure
 | Subject: English |
+| --- | ---: |
 | Category | Weight |
 | Classwork | 50% |
 | Test/Quizzes | 30% |
