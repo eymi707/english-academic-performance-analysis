@@ -49,6 +49,8 @@ Example preview:
 
 
 ## Analysis
+- Is there a trend near the end of the semester?
+- Is there a trend due to the amount of work given, based off of points and category?
 
 ## Dashboard
 
