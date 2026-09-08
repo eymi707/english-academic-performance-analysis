@@ -100,11 +100,16 @@ The rate of missing assignments for Classwork increased **15.6% in Fall to 22.8%
 
 Based on the analysis, these are the following that should be prioritized for more academic support:
 
-1.**Support for Projects**
+1. **Support for Projects**
 - Projects has the largest decline from Fall to Spring of **10.6%**.
 - Review and determine if instructions and expectations were executed properly, proper amount of time was given, and identify opportunities for more support.
 
-2.**Completion of Assignments**
+2. **Completion of Assignments**
 - Rate of missing assignments for Classwork increased **7.2%** from Fall to Spring with Spring having a missing rate of **22.8%**.
 - Identify missing work by the 1st grading period to identify students who need more academic support.
 
+3. **Test Performance**
+- The rate of performance for Tests is stable with a decline of **0.3%**.
+- Identify practices that aid in the stability of completion and improve the test performances.
+
+## Dashboard
