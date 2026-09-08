@@ -113,3 +113,4 @@ Based on the analysis, these are the following that should be prioritized for mo
 - Identify practices that aid in the stability of completion and improve the test performances.
 
 ## Dashboard
+<img width="2398" height="1558" alt="AcademicDashboard_Preview" src="https://github.com/user-attachments/assets/45f2908d-b964-45fc-aff4-2c7c25407fbf" />
